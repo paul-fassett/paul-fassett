@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+I am a current student at Grand Rapids Community College studying for a degree in Network Administration. I also am learning and interested in code, AI and automation.
+
 <!--
 **paul-fassett/paul-fassett** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
